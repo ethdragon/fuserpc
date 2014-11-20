@@ -1,7 +1,7 @@
 #!/bin/bash
 # by Yang LIU
-fuserpc="fuserpc4.py"
-proxy="Proxy2.py"
+fuserpc="fuserpc.py"
+proxy="Proxy.py"
 mount_point="fusemount"
 start_port=2222
 server_number=3
