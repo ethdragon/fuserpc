@@ -151,9 +151,9 @@ def main():
     ol[k] = v
 
   port = 51234
-  '''addr = 192.168.222.101
+  addr = 'localhost'
   if "--addr" in ol:
-    addr = int(ol["--addr"])'''
+    addr = int(ol["--addr"])
   if "--port" in ol:
     port = int(ol["--port"])  
   if "--addr" in ol:
